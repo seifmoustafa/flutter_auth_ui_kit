@@ -1,0 +1,32 @@
+name: flutter_auth_ui_kit
+description: A comprehensive Flutter package for authentication UI components including signin forms, social login buttons, dividers, and remember me functionality.
+version: 1.0.0
+homepage: https://github.com/seifmoustafa/flutter_auth_kit
+repository: https://github.com/seifmoustafa/flutter_auth_kit
+issue_tracker: https://github.com/seifmoustafa/flutter_auth_kit/issues
+documentation: https://github.com/seifmoustafa/flutter_auth_kit#readme
+topics:
+  - flutter
+  - authentication
+  - ui
+  - widgets
+  - login
+  - signin
+  - social-auth
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_platform_widgets: ^1.0.0
+  flutter_svg: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
