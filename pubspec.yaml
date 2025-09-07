@@ -10,7 +10,6 @@ topics:
   - authentication
   - ui
   - widgets
-  - login
   - social-auth
 
 environment:
